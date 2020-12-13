@@ -7,4 +7,4 @@ total 820
 -rw-r--r-- 1 labsuser labsuser     67 Dec 13 16:59 file_after_mv.test
 -rw-r--r-- 1 labsuser labsuser     32 Dec 12 17:01 git.txt
 -rw-r--r-- 1 labsuser labsuser 825043 Dec 13 15:38 Project 1_ Dockerizing Jenkins Pipeline.docx
--rw-r--r-- 1 labsuser labsuser     23 Dec 12 17:04 t.txt
+*-rw-r--r-- 1 labsuser labsuser     23 Dec 12 17:04 t.txt
